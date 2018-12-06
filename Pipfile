@@ -10,6 +10,9 @@ gunicorn = "*"
 django-heroku = "*"
 djangorestframework = "*"
 django-extensions = "*"
+django = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
